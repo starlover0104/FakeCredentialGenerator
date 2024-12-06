@@ -11,4 +11,7 @@
 - A python installation of Python 3.x+
 - 'faker' python library via pip aboove
 
+## Issues
+Contact me via <a href="mailto:support@starlover.online">support@starlover.online</a> in a case of any issues with an image and explanation
+
 Note: this does not create legitimate emails with the ability of sending nor recieving, just fake credentials.
